@@ -34,5 +34,6 @@ exitosamente y que se pueda ejecutar el main con la salida:
     103 - Gregorio H. Latham - 2020-01-31 - 15 nights
     ---------------------------------------------------------------------
     ```
-1. Sube tus clases creadas al repositorio (add, commit, push)
+1. Contesta las preguntas en el archivo [questions.md](questions.md)
+1. Sube tus archivos creados/modificados al repositorio (add, commit, push)
 1. Envía un mensaje al profesor indicando que has terminado el examen. 
